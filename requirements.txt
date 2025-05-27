@@ -1,0 +1,9 @@
+pretty_midi
+numpy
+soundfile
+music21
+librosa
+os
+fastapi
+uvicorn
+uuid
