@@ -75,4 +75,4 @@ def download_audio(filename: str):
     return FileResponse(path=filename, media_type="audio/wav", filename=filename)
 
 if __name__ == "__main__":
-    uvicorn.run("audio_to_midi_api:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("audio_to_midi_api:app", host="0.0.0.0", port=10000, reload=True)
