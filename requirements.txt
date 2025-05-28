@@ -1,0 +1,5 @@
+librosa==0.11.0
+music21==9.7.0
+numpy==2.2.6
+pretty_midi==0.2.10
+soundfile==0.13.1
