@@ -2,6 +2,7 @@
 Download here: https://www.fluidsynth.org/download/
 
 See requirements.txt for required libraries
+
 You must have the .sf2 file in the same directory as your scripts
 
 Each Python script broken down:
