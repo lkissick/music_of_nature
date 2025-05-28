@@ -113,7 +113,7 @@ def process_midi(input_midi_path, output_wav_path):
         return False
 
 if __name__ == "__main__":
-    input_file = "output_cardinal.mid"
+    input_file = "output_input-1.mid" # CHANGE MIDI FILE HERE
     output_file = f"harmonized_{input_file.split('.')[0]}.wav"
     
     if process_midi(input_file, output_file):
