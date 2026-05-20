@@ -1,4 +1,4 @@
-!! BEFORE USING, YOU MUST INSTALL fluidsynth ONTO YOUR SYSTEM !!
+BEFORE USING, YOU MUST INSTALL fluidsynth ONTO YOUR SYSTEM
 Download here: https://www.fluidsynth.org/download/
 
 See requirements.txt for required libraries
